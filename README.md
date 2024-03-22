@@ -1,2 +1,2 @@
 # QuizBizz
-Quiz app to test your knowledge on various topics and keep track of your progress.
+Quiz app to test your knowledge on various topics and keep track of your progress - microservice application in C#
