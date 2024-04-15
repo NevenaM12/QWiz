@@ -1,0 +1,5 @@
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\GameManager\obj\Debug\net8.0\GameManager.csproj.AssemblyReference.cache
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\GameManager\obj\Debug\net8.0\GameManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\GameManager\obj\Debug\net8.0\GameManager.AssemblyInfoInputs.cache
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\GameManager\obj\Debug\net8.0\GameManager.AssemblyInfo.cs
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\GameManager\obj\Debug\net8.0\GameManager.csproj.CoreCompileInputs.cache

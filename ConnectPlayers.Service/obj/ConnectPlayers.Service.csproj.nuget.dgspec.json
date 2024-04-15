@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ConnectPlayers.Service\\ConnectPlayers.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj",
+        "projectName": "ClassLibrary.Common",
+        "projectPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj",
+        "packagesPath": "C:\\Users\\Marija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ConnectPlayers.Service\\ConnectPlayers.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ConnectPlayers.Service\\ConnectPlayers.Service.csproj",
+        "projectName": "ConnectPlayers.Service",
+        "projectPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ConnectPlayers.Service\\ConnectPlayers.Service.csproj",
+        "packagesPath": "C:\\Users\\Marija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ConnectPlayers.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj": {
+                "projectPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

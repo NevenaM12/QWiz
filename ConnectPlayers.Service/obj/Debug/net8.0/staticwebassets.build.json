@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A55drg1KcgRHpGL8T4Usod7G8nkFzogRoLFv2CVijHI=",
+  "Source": "ConnectPlayers.Service",
+  "BasePath": "_content/ConnectPlayers.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

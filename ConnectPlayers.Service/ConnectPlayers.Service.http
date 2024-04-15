@@ -1,0 +1,6 @@
+@ConnectPlayers.Service_HostAddress = http://localhost:5277
+
+GET {{ConnectPlayers.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\bin\Debug\net8.0\ClassLibrary.Common.deps.json
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\bin\Debug\net8.0\ClassLibrary.Common.dll
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\bin\Debug\net8.0\ClassLibrary.Common.pdb
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ClassLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ClassLibrary.Common.AssemblyInfoInputs.cache
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ClassLibrary.Common.AssemblyInfo.cs
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ClassLibrary.Common.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ClassLibrary.Common.dll
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\refint\ClassLibrary.Common.dll
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ClassLibrary.Common.pdb
+C:\Users\Marija\Desktop\Fakultet\master\QuizBizz\Services\ClassLibrary.Common\obj\Debug\net8.0\ref\ClassLibrary.Common.dll
