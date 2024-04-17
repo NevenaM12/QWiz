@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\ClassLibrary.Common\\ClassLibrary.Common.csproj",
       "projectName": "ClassLibrary.Common",
-      "projectPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\ClassLibrary.Common.csproj",
+      "projectPath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\ClassLibrary.Common\\ClassLibrary.Common.csproj",
       "packagesPath": "C:\\Users\\Marija\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marija\\Desktop\\Fakultet\\master\\QuizBizz\\Services\\ClassLibrary.Common\\obj\\",
+      "outputPath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\ClassLibrary.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marija\\AppData\\Roaming\\NuGet\\NuGet.Config",

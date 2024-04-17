@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nevena\\Desktop\\RS2\\Vezbe\\QuizBizz\\Questions\\Questions\\Questions.csproj": {}
+    "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nevena\\Desktop\\RS2\\Vezbe\\QuizBizz\\Questions\\Questions\\Questions.csproj": {
+    "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nevena\\Desktop\\RS2\\Vezbe\\QuizBizz\\Questions\\Questions\\Questions.csproj",
+        "projectUniqueName": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj",
         "projectName": "Questions",
-        "projectPath": "C:\\Users\\Nevena\\Desktop\\RS2\\Vezbe\\QuizBizz\\Questions\\Questions\\Questions.csproj",
-        "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nevena\\Desktop\\RS2\\Vezbe\\QuizBizz\\Questions\\Questions\\obj\\",
+        "projectPath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj",
+        "packagesPath": "C:\\Users\\Marija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nevena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marija\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,10 +55,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -67,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

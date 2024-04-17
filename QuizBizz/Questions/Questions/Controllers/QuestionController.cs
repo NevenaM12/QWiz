@@ -8,7 +8,7 @@ namespace Questions.Controllers
     [Route("api/v1/[controller]")]
     public class QuestionController : ControllerBase
     {
-        IQuestionRepository _repository;
+        private readonly IQuestionRepository _repository;
 
         public QuestionController(IQuestionRepository repository)
         {
