@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj": {}
+    "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj": {
+    "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj",
+        "projectUniqueName": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj",
         "projectName": "ChatBot",
-        "projectPath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj",
-        "packagesPath": "C:\\Users\\Marija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\obj\\",
+        "projectPath": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj",
+        "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nevena\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

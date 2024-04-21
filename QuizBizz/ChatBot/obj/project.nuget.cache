@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Hn7C9tWqjHH2N0eKDqehdqFQ1+PnEFMVZ3+lVkTlIY2yVQTkbduy9/sCW5Zp6RwvduoRvGxCe7O8jOFnaje2hA==",
+  "dgSpecHash": "kh1tVYT9HvM2JkxBeLhuEiTbX2YrvC82WZ2c3Nb/5v8ovTkAHrKIyY4YPw0qxlN7xr6J+U4PsO4Z9jvUnjnnrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marija\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj",
+  "projectFilePath": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\ChatBot\\ChatBot.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Marija\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\Marija\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
-    "C:\\Users\\Marija\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Marija\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "C:\\Users\\Nevena\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Nevena\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Nevena\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nevena\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }

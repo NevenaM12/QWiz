@@ -7,7 +7,7 @@ namespace Questions.Entities
     {
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
-        public string Category { get; set; }
+        public string Topic { get; set; }
         public string DificultyLevel { get; set; }
         public string QuestionTitle { get; set; }
         public string Option1 { get; set; }

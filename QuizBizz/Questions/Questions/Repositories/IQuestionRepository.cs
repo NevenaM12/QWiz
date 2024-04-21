@@ -4,12 +4,12 @@ namespace Questions.Repositories
 {
     public interface IQuestionRepository
     {
-        Task<IEnumerable<Question>> GetQuestions();
+        Task<IEnumerable<Question>> GetAllQuestions();
 
         //Task<Question> GetQuesiton(string id);
-        //Task<IEnumerable<Question>> GetProductsByCategory(string categoryName);
-        //Task CreateProduct(Question question);
-        //Task<bool> UpdateProduct(Question question);
-        //Task<bool> DeleteProduct(string id);
+        Task<IEnumerable<Question>> GetQuestionsByTopic(string topic);
+        Task CreateQuestion(Question question);
+        Task<bool> UpdateQuestion(Question question);
+        Task<bool> DeleteQuestion(string id);
     }
 }

@@ -22,7 +22,7 @@ namespace Questions.Data
                 new Question()
                 {
                     Id = "602d2149e773f2a3990b47f5",
-                    Category = "geography",
+                    Topic = "geography",
                     DificultyLevel = "easy",
                     QuestionTitle = "What is the capital of France?",
                     Option1 = "Rome",
@@ -34,7 +34,7 @@ namespace Questions.Data
                 new Question()
                 {
                     Id = "602d2149e773f2a3990b47f6",
-                    Category = "history",
+                    Topic = "history",
                     DificultyLevel = "easy",
                     QuestionTitle = "In which year did World War II end?",
                     Option1 = "1943",
@@ -46,7 +46,7 @@ namespace Questions.Data
                 new Question()
                 {
                     Id = "602d2149e773f2a3990b47f7",
-                    Category = "geography",
+                    Topic = "geography",
                     DificultyLevel = "medium",
                     QuestionTitle = "Which planet is known as the 'Red Planet'?",
                     Option1 = "Venus",
@@ -54,6 +54,18 @@ namespace Questions.Data
                     Option3 = "Jupiter",
                     Option4 = "Saturn",
                     RightAnswer = "Mars"
+                },
+                new Question()
+                {
+                    Id = "602d2149e773f2a3990b47f8",
+                    Topic = "biology",
+                    DificultyLevel = "medium",
+                    QuestionTitle = "What is the primary function of the mitochondria in a cell?",
+                    Option1 = "Synthesizing carbohydrates",
+                    Option2 = "Generating energy in the form of ATP",
+                    Option3 = "Producing enzymes for cell metabolism",
+                    Option4 = "Regulating cell division",
+                    RightAnswer = "Generating energy in the form of ATP"
                 }
             };
         }
