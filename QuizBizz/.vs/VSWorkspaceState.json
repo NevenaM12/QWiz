@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\IdentityServer",
+    "\\IdentityServer\\Entities",
     "\\Questions"
   ],
-  "SelectedNode": "\\Questions\\Properties",
+  "SelectedNode": "\\IdentityServer\\Entities\\User.cs",
   "PreviewInSolutionExplorer": false
 }

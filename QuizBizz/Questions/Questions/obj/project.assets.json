@@ -1207,19 +1207,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nevena\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo i5\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo i5\\Source\\Repos\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj",
       "projectName": "Questions",
-      "projectPath": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj",
-      "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nevena\\Documents\\GitHub\\QuizBizz\\QuizBizz\\Questions\\Questions\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo i5\\Source\\Repos\\QuizBizz\\QuizBizz\\Questions\\Questions\\Questions.csproj",
+      "packagesPath": "C:\\Users\\Lenovo i5\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo i5\\Source\\Repos\\QuizBizz\\QuizBizz\\Questions\\Questions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nevena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo i5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1278,7 +1278,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
