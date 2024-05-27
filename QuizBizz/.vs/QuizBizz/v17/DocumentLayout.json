@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|c:\\users\\lenovo i5\\source\\repos\\quizbizz\\quizbizz\\identityserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|c:\\users\\lenovo i5\\source\\repos\\quizbizz\\quizbizz\\identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|c:\\users\\lenovo i5\\source\\repos\\quizbizz\\quizbizz\\identityserver\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|c:\\users\\lenovo i5\\source\\repos\\quizbizz\\quizbizz\\identityserver\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|c:\\users\\lenovo i5\\source\\repos\\quizbizz\\quizbizz\\identityserver\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3D07EE-0C49-42AF-B499-61710A29A2CF}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 302,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IdentityServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\appsettings.Development.json",
+              "RelativeToolTip": "IdentityServer\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T14:56:07.746Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -20,8 +54,56 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Startup.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Startup.cs",
+              "RelativeToolTip": "IdentityServer\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:54:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:26:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "IdentityServer\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:23:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo i5\\source\\repos\\QuizBizz\\QuizBizz\\IdentityServer\\Entities\\User.cs",
+              "RelativeToolTip": "IdentityServer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:19:41.271Z",
+              "EditorCaption": ""
             }
           ]
         }

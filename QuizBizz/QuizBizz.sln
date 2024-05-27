@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogTopics", "CatalogTop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot", "ChatBot\ChatBot.csproj", "{F54E832B-9AF1-4737-AAA6-93FDF4AE56D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{9F93B14F-B789-4F38-9F80-BCA37714197E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{DF3D07EE-0C49-42AF-B499-61710A29A2CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{F54E832B-9AF1-4737-AAA6-93FDF4AE56D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F54E832B-9AF1-4737-AAA6-93FDF4AE56D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F54E832B-9AF1-4737-AAA6-93FDF4AE56D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F93B14F-B789-4F38-9F80-BCA37714197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F93B14F-B789-4F38-9F80-BCA37714197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F93B14F-B789-4F38-9F80-BCA37714197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F93B14F-B789-4F38-9F80-BCA37714197E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3D07EE-0C49-42AF-B499-61710A29A2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3D07EE-0C49-42AF-B499-61710A29A2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3D07EE-0C49-42AF-B499-61710A29A2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3D07EE-0C49-42AF-B499-61710A29A2CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
